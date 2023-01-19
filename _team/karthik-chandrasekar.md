@@ -11,8 +11,9 @@ weight: 1
 layout: team
 ---
 
-Karthik started Sangam to find a new model to provide early stage support for climate change pioneers. He spends a lot of his time with the portfolio & within the clean technology eco-system in India & globally. Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut! Impedit sit sunt quaerat, odit, tenetur error, harum nesciunt ipsum debitis quas aliquid. Reprehenderit,
-quia. Quo neque error repudiandae fuga? Ipsa laudantium molestias eos sapiente officiis modi at sunt excepturi expedita sint? Sed quibusdam recusandae alias error harum maxime adipisci amet laborum. 
+Karthik started Sangam in 2016 to find a new model to provide early stage support for climate change pioneers. He spends a lot of his time with the portfolio & within the clean technology eco-system in India & globally. At Sangam, he has led investments in eight clean technology start-ups bringing game-changing technologies and business models to the market.
+
+Prior to Sangam, Karthik led clean-tech investments in India for Acumen Fund. Prior to that he was with TVS Capital Funds where he focused on developing investment thesis for providing basic services in water, energy and agriculture for inclusive growth. Karthik holds an MBA from Chicago Booth, MS in Public Policy & Mgmt from Carnegie Mellon and a BTech from the IIT Bombay. 
 
 {% include team-socials.html %}
 
