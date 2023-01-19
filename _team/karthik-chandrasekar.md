@@ -21,10 +21,10 @@ Prior to Sangam, Karthik led clean-tech investments in India for Acumen Fund. Pr
 ### Blogs and Links
 
 #### Some Link heading
-[membra contractosque](#linkurl)
+[The Valuation Game…What Does It Mean Exactly?](https://www.linkedin.com/pulse/valuation-gamewhat-does-mean-exactly-karthik-chandrasekar/)
 
 #### Some Link heading
-[membra contractosque](#linkurl)
+[Investment Opportunity in Climate-tech: Sustainable Agriculture and Land Use Patterns](https://iiic.in/newsletter/india-climate-bulletin/issue-2/sector-voices1.html)
 
 #### Some Link heading
-[membra contractosque](#linkurl)
+[Catapulting startups into scale mode or the answer to the question — “Do you have revenues?”](https://www.linkedin.com/pulse/catapulting-startups-scale-mode-answer-question-do-you-chandrasekar/)
