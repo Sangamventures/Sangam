@@ -7,7 +7,7 @@ jobtitle: "Analyst"
 linkedinurl: "https://www.linkedin.com/in/ashnarustagi/"
 twitterurl: "https://twitter.com/RustagiAshna"
 twitterUsername: "@RustagiAshna"
-weight: 6
+weight: 5
 layout: team
 ---
 At Sangam, I focus on outreach into the start-up and innovation eco-system to identify new investment opportunities aligned with the fund’s Agriculture thesis – Climate Smart Land Use. That also involves leading acceleration programs that align with our agriculture investment thesis. 
