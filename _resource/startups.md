@@ -1,5 +1,5 @@
 ---
-title: "Let us help kickstart your startup"
+title: "A fund to create a new future!"
 date: 2018-11-19T10:47:58+10:00
 draft: false
 show-page: true
@@ -22,13 +22,16 @@ cta-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed d
 cta-button-text: "Join Us Today"
 cta-button-url: "/resource/startups"
 questions:
-    - "Imagine"
-    - "Vienna"
-    - "Smoke on the water"
+    - "Why did we start Sangam?"
+    - "Is investing in a fund the best way to fight climate change?"
+    - "Are you an impact-first fund?"
+    - "Where do you invest? What is the sectoral focus?"
 answers:
-    - "Imagine there's no countries <br> It isn't hard to do <br> Nothing to kill or die for and no religion, too <br> Imagine all the people <br> Livin' life in peace! <br> -John Lennon"
-    - "Where's the fire, what's the hurry about? <br> You better cool it off before you burn it out <br> You got so much to do and only <br> so many hours in a day! <br> -Bob Dylan"
-    - "We all came out to Montreux <br> On the Lake Geneva shoreline <br> To make records with a mobile <br> We didn't have much time <br> Frank Zappa and the Mothers <br> Were at the best place around <br> But some stupid with a flare gun <br> Burned the place to the ground! <br> -Deep Purple"
+    - "Climate Change is the greatest and most urgent global challenge of our generation, and it affects the poor, the vulnerable and the commons disproportionately. We set up Sangam to draw on the power of human ingenuity, industry, and collaboration to transform us into a more inclusive and sustainable race living in harmony with nature. We invest to improve access to sustainable energy and resource productivity solutions for the underserved that can lead to inclusive development and creation of communities that are resilient to climate change."
+    - "Most of Climate Change is anthropogenic (human-driven). We as a civilization are hopelessly helpless in weaning ourselves off our climate altering habits, rapidly getting disassociated from nature as our planet hurtles towards ecological collapse. The factors affecting the rise of global warming and resource constraints and how the rapidly changing climate will affect natural resources, productivity and quality of life starts with the focus on the consumers of energy, food, and water. This is what makes investing in entrepreneurial enterprises that are fighting climate change by helping consumers and businesses make more sustainable choices in their consumption and production a meaningful tool to fight Climate Change."
+    - "Yes, we are an impact first fund. Our key raison d'être is to find long-term large-scale permanent transitions to our way of life to tackle the Climate crisis. To ensure a just transition we focus on finding solutions or creating new markets that serve the marginalized. <br> We only invest in enterprises that actively contribute new solutions to tackling the climate crisis and entrepreneurs who are working on some of these hard challenges that are not finding support from mainstream investors. Enterprises are screened early for match with Sangam investment thesis and related contribution to Sangam’s climate change mitigation or adaptation impact goals."
+    - "We are a climate change mitigation and adaptation focused fund. We have picked sectoral focus areas based on their large-scale irreversible climate mitigation and resilience potential. <br> 1. Energy Transition <br> • Technologies that accelerate decarbonization of energy <br> • Fit-for-purpose energy storage & high efficiency components and appliances <br> • Electric, alternative fuel & shared transport solution <br> 2. Resource Productivity <br> •	Industrial heat & power efficiencies & recycling <br> •	Alternative low-carbon materials & reduction in fossil-based product use <br> •	Low cost & energy efficient refrigeration technologies <br> 3. Climate-Smart Land-use <br> • Climate resilient agriculture, agro-forestry & watershed management <br> •	Improve soil carbon & soil microbiome while minimizing soil erosion <br> • Farm-positive agricultural supply chains, residue & waste management <br> 4. Inclusive Economy <br> • Generate opportunities for better livelihoods and wealth creation <br> • Future-proof technology development & adoption in SMEs <br> •	Resilient communities that preserve local culture & biodiversity <br> We follow secular drivers for investing in clean technologies for emerging markets including rapid population growth and urbanization, stressed natural resources, productivity gap in SMEs and agriculture and consumption-driven aspirational growth of consumer markets."
+
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
