@@ -7,7 +7,7 @@ jobtitle: "Legal Counsel"
 twitterurl: "https://twitter.com/AnishaPatnaik"
 twitterUsername: "@AnishaPatnaik"
 linkedinurl: ""
-weight: 2
+weight: 3
 layout: team
 ---
 
