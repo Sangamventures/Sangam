@@ -7,7 +7,7 @@ jobtitle: "ESG & Investor Relations"
 linkedinurl: "https://www.linkedin.com/in/deepika-sood/"
 twitterurl: ""
 twitterUsername: ""
-weight: 3
+weight: 2
 layout: team
 ---
 
