@@ -7,7 +7,7 @@ jobtitle: "CFO - Sangam Ventures"
 linkedinurl: ""
 twitterurl: "https://twitter.com/seepla"
 twitterUsername: "@seepla"
-weight: 3
+weight: 4
 layout: team
 ---
 
