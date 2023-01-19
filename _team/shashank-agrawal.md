@@ -4,8 +4,9 @@ date: 2018-12-20T13:45:06+10:00
 draft: false
 image: "images/team/Shashank-Agrawal.jpg"
 jobtitle: "ESG & Investor Relations"
-twitterurl: "https://twitter.com/shashank_awl"
-twitterUsername: "@shashank_awl"
+linkedinurl: "https://www.linkedin.com/in/deepika-sood/"
+twitterurl: ""
+twitterUsername: ""
 weight: 3
 layout: team
 ---
