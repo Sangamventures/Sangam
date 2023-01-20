@@ -37,6 +37,7 @@ answers:
     - "We are a climate change mitigation and adaptation focused fund. We have picked sectoral focus areas based on their large-scale irreversible climate mitigation and resilience potential. <br> <br> 1. Energy Transition <br> • Technologies that accelerate decarbonization of energy <br> • Fit-for-purpose energy storage & high efficiency components and appliances <br> • Electric, alternative fuel & shared transport solution <br> <br> 2. Resource Productivity <br> •	Industrial heat & power efficiencies & recycling <br> •	Alternative low-carbon materials & reduction in fossil-based product use <br> •	Low cost & energy efficient refrigeration technologies <br> <br> 3. Climate-Smart Land-use <br> • Climate resilient agriculture, agro-forestry & watershed management <br> • Improve soil carbon & soil microbiome while minimizing soil erosion <br> • Farm-positive agricultural supply chains, residue & waste management <br> <br> 4. Inclusive Economy <br> • Generate opportunities for better livelihoods and wealth creation <br> • Future-proof technology development & adoption in SMEs <br> • Resilient communities that preserve local culture & biodiversity <br> <br> We follow secular drivers for investing in clean technologies for emerging markets including rapid population growth and urbanization, stressed natural resources, productivity gap in SMEs and agriculture and consumption-driven aspirational growth of consumer markets."
     
 faq-heading-2: "Investment Strategy"
+questions-block2:
     - "What differentiates you from other investors? What is the additionality of the fund?"
     - "How do you source deals?  Can we get good pipeline?"
     - "Do you lead rounds?"
@@ -52,6 +53,7 @@ answers-block2:
     - "We are looking to generate irreversible long-term climate change impact. Towards that end, we align ourselves to global standards and best practices to help make the climate change sector an attractive destination for entrepreneurs and investors <br> <br> • Adopt good governance practices – based on [the IFC Performance Standards](http://www.ifc.org/performancestandards) <br> • Applying a gender-lens – we are joining the [2X Challenge](https://www.2xchallenge.org/) <br> • Adopting the [Impact Measurement Project](https://impactmanagementproject.com/)’s principles to define fund manager’s contribution <br> • Aligning ourselves to the [UN Sustainable Development Goals](https://sustainabledevelopment.un.org/) and [GIIRS Impact Ratings](https://iris.thegiin.org/document/iris-and-giirs/)"
 
 faq-heading-3: "Fund Structure"
+questions-block3:
     - "How is the Fund structured?"
     - "What are you looking to achieve with this unique fund design?"
     - "Where is the fund incorporated and why did we choose that domicile?"
@@ -60,7 +62,8 @@ answers-block3:
     - "We invest in STEM-innovation driven startups that have significant commercial and impact potential but are struggling to access early-stage risk capital. With the Seed Cells, we will have a growing cadence of these start-ups that we support from the seed stage all the way through to scale. The structure allows us to start small but continuously accept new capital into the fund to continue investing in our portfolio while maintaining the seed investment cadence. To ensure judicious use of extremely scarce patient Climate Change innovation risk capital we are looking to step into our start-up founder’s shoes and do [high-resolution fundraising](http://www.paulgraham.com/hiresfund.html). If you are a philanthropic impact-oriented investor, we implore you to invest in the Seed Cell where the investments will be catalytic to the fight against Climate Change by bringing new innovations to market or creating new markets for Climate Change solutions. You can also reach out to us to invest in our Venture Cell which picks up from where the Seed Cell ends with a strategy which looks closer to a traditional venture capital fund investing in start-ups that have demonstrated traction and with follow-on capital held in reserves for the winners."
     - "Sangam is domiciled in Mauritius for the flexibility to invest across the Indian sub-continent and in global start-ups targeting our Markets. Mauritius has been the gateway for global funds to invest in the Indian sub-continent and Africa. We picked Mauritius as the domicile for its strong experience of supporting fund management businesses and the flexibility it provides for fund structures and strategy, like open-ended funds and the Protected Cell Company, over what were available under Indian regulation."
     
-faq-heading-4: "Seed Fund"    
+faq-heading-4: "Seed Fund"  
+questions-block4:
     - "Why are you focused on seed and early-stage start-ups?"    
     - "Is there an advantage to investing in the seed stage?"
     - "What is the target size of the Seed Cell?"
