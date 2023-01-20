@@ -3,18 +3,14 @@ title: "Ramesh Ramaswamy"
 date: 2018-12-20T13:44:23+10:00
 draft: false
 image: "images/team/Ramesh-Ramaswamy.jpg"
-jobtitle: "CFO - Sangam Ventures"
-linkedinurl: ""
+jobtitle: "CFO"
+linkedinurl: "https://www.linkedin.com/in/s-r-ramesh-04ab5115/"
 twitterurl: "https://twitter.com/seepla"
 twitterUsername: "@seepla"
 weight: 4
 layout: team
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.
-
+Ramesh brings strong experience in operational financing for cash & WC management. Prior to Sangam, he was CFO @InKlude Labs working on USAID-funded Deworming project. Ramesh has held various CEO and CFO positions in his esteemed career including taking an SME public and raising PE investment.
 
 {% include team-socials.html %}
 
