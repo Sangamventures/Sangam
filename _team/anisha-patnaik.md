@@ -37,7 +37,6 @@ herrising awards 2022.
 <hr/>
 ### Blogs and Links
 
-#### Some Link heading
 [membra contractosque](#linkurl)
 
 #### Some Link heading
