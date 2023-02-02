@@ -22,14 +22,7 @@ cta-heading: "Are you a startup?"
 cta-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna."
 cta-button-text: "Join Us Today"
 cta-button-url: "/resource/startups"
-questions:
-    - "Imagine"
-    - "Vienna"
-    - "Smoke on the water"
-answers:
-    - "Imagine there's no countries <br> It isn't hard to do <br> Nothing to kill or die for and no religion, too <br> Imagine all the people <br> Livin' life in peace! <br> -John Lennon"
-    - "Where's the fire, what's the hurry about? <br> You better cool it off before you burn it out <br> You got so much to do and only <br> so many hours in a day! <br> -Bob Dylan"
-    - "We all came out to Montreux <br> On the Lake Geneva shoreline <br> To make records with a mobile <br> We didn't have much time <br> Frank Zappa and the Mothers <br> Were at the best place around <br> But some stupid with a flare gun <br> Burned the place to the ground! <br> -Deep Purple"
+
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
