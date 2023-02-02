@@ -13,11 +13,7 @@ quote-author-designation: "Founder Sangam Ventures"
 quote-author-image: "images/author/kc-circle.svg"
 author-linkedinurl: "https://www.linkedin.com/in/karthikchandrasekar/"
 category: "funding"
-show-faq: true
 show-cta: true
-show-second-faq: true
-show-third-faq: true
-show-fourth-faq: true
 promoted: true
 weight: 4
 cta-heading: "Are you an investor?"
