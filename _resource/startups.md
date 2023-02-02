@@ -24,6 +24,11 @@ cta-heading: "Are you an investor?"
 cta-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna."
 cta-button-text: "Join Us Today"
 cta-button-url: "/resource/startups"
+accordion:
+  - title: this is item 1
+    content: Lorem ipsum dolor sit amet, <a href = "https://www.sangam.vc/" target = "_blank"> consectetur</a> adipiscing elit.
+  - title: this is item 2
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 ---
 
@@ -42,3 +47,7 @@ Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de incuba
 
 Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per tamen lentis spectat, Titania est animo.
 
+## Frequently Asked Questions
+### Our Purpose
+
+{% include accordion.html %}
