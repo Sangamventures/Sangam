@@ -6,9 +6,7 @@ draft: false
 promoted: true
 show-page: true
 show-cover-image: true
-show-faq: true
 show-cta: true
-show-second-faq: true
 image: "images/resource/icon-6.svg"
 cover-image: "images/cover/green-field.jpg"
 headline: "Energy Conservation"
