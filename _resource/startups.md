@@ -79,14 +79,14 @@ Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
 
 {% include accordion.html %}
 
-## Investment Strategy
+### Investment Strategy
 
 {% include accordion1.html %}
 
-## Fund Structure
+### Fund Structure
 
 {% include accordion2.html %}
 
-## Seed Fund
+### Seed Fund
 
 {% include accordion3.html %}
