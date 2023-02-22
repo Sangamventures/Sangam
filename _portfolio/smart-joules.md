@@ -2,7 +2,7 @@
 title: "Smart Joules"
 date: 2018-12-20T13:44:30+10:00
 draft: false
-image: "images/portfolio/smart joule.svg"
+image: "images/portfolio/Smart Joules Logo.png"
 tagline: ""
 websiteurl: "https://www.smartjoules.co.in/"
 websitedomain: "smartjoules.co.in"
